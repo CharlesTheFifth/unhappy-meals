@@ -1,0 +1,4 @@
+I couldn't have made this graphic without the following wonderful people:
+Rhian and Theo at Jumping rivers for R tips and patience!
+The Population Health Intelligence team at Greater Manchester Health and Social Care Parternship - Laura, Ian, Jess, Mary and Emily - for all their support
+Jamie White and the Open Data Manchester team, for giving me the idea of IMD grids with their political control by IMD plots graph.
