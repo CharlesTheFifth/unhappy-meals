@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="44.758129mm"
+   height="39.660835mm"
+   viewBox="0 0 44.758128 39.660836"
+   version="1.1"
+   id="svg866"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="burger_fill.svg"
+   inkscape:export-filename="M:\Secure Folders\Research\Work\Projects\Reform\PSR1809_Population Health\X. Misc Tasks\NHS Vis Challenge - Charlie\icons\burger_outline.png"
+   inkscape:export-xdpi="1200"
+   inkscape:export-ydpi="1200">
+  <defs
+     id="defs860" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="12.342956"
+     inkscape:cy="88.703326"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="true" />
+  <metadata
+     id="metadata863">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-79.674501,-53.407675)">
+    <path
+       id="path909"
+       style="opacity:1;vector-effect:none;fill:#e9afaf;fill-opacity:1;stroke:#000000;stroke-width:0.90000004;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m 84.132009,67.818811 a 18.827763,20.41702 0 0 1 8.508457,-11.425809 18.827763,20.41702 0 0 1 9.857944,-2.729646 v 0 a 18.827763,20.41702 0 0 1 8.9696,2.729646 18.827763,20.41702 0 0 1 8.50809,11.424565 m -37.619315,0.0067 c -0.351216,0 -0.634214,0.438509 -0.634214,0.98451 v 0.367936 c 0,0.545995 0.282998,0.98451 0.634214,0.98451 h 28.892785 l 4.45706,6.703272 4.45614,-6.703272 h 1.52637 c 0.35121,0 0.63328,-0.438515 0.63328,-0.98451 v -0.367936 c 0,-0.546001 -0.28207,-0.98451 -0.63328,-0.98451 z m 0.319975,2.787028 c -1.5198,3.1e-5 -2.75214,1.592532 -2.75226,3.556759 -9e-5,1.964441 1.2323,3.55672 2.75226,3.556756 h 38.75453 c 1.51997,-2.9e-5 2.75144,-1.592315 2.75134,-3.556756 -1.4e-4,-1.964227 -1.23153,-3.556731 -2.75134,-3.556759 h -1.56797 l -4.15659,6.252846 -4.15753,-6.252846 z m 0.20348,7.142139 c 0.01878,8.357878 1.779274,15.065039 3.963436,15.065039 h 30.419494 c 2.18416,0 3.94495,-6.707161 3.96373,-15.065037" />
+  </g>
+</svg>
